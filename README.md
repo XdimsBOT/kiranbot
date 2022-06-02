@@ -12,8 +12,8 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## Infoooo
-> Original Sc dari https://github.com/XdimsBOT/yaallah
-WhatsApp Bot Multi Device [`XdimsBOT/yaallah`](https://github.com/XdimsBOT/yaallah)
+> Original Sc dari https://github.com/XdimsBOT/kiranbot
+WhatsApp Bot Multi Device [`XdimsBOT/kiranbot`](https://github.com/XdimsBOT/kiranbot)
 
 ## DOWNLOAD MODULENYA
 * Tinggal Extrak [`Klik disini`](https://www.mediafire.com/file/5h0y1l2hs6aoqqp/node_modules.zip/file)
@@ -26,7 +26,7 @@ WhatsApp Bot Multi Device [`XdimsBOT/yaallah`](https://github.com/XdimsBOT/yaall
 
 
 ```bash
-git clone https://github.com/XdimsBOT/yaallah
+git clone https://github.com/XdimsBOT/kiranbot
 cd yaallah
 npm install
 ```
@@ -47,8 +47,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/XdimsBOT/yaallah
-cd Zetspublic
+git clone https://github.com/XdimsBOT/kiranbot
+cd kiranbot
 npm install
 ```
 
